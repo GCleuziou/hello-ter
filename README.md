@@ -9,4 +9,4 @@ nouvelle modification!
 
 4ème modif directement en ligne sur GitHub!
 
-Nouvelle modification pour la branche-test puis création de la branche-B !!
+On tente de générer un conflit!
