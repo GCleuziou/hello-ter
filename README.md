@@ -13,3 +13,5 @@ Attention les yeux!!!
 
 On tente de nouveau de générer un conflit!
 On tente de générer un conflit cette fois ça devrait marcher!
+
+On fait un nouveau petit commit!
